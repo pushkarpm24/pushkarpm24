@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Selenium Automation C#
+- 🔭 I’m currently working on Selenium Automation java
 - 🌱 I’m currently learning Appium
 - 💬 Ask me about java,c#,Automation
 
